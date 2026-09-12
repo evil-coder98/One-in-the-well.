@@ -1,0 +1,1 @@
+One in the Well fixed prototype. Upload index.html, style.css, and game.js together to your GitHub Pages folder. Requires internet for Three.js from jsDelivr. Tap NORMAL or HARD to start; tap the next layer's bar to climb; drag on the game to look around.
